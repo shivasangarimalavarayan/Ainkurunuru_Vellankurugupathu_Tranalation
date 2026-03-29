@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="ta"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <note>குருகு + இன் = குருகின் 
+குருகு = heron
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of heron's chick 
+</note>
+      <tuv lang="ta">
+        <seg>&lt;t0/&gt;வெள்ளாங் குருகின் &lt;t1/&gt;பிள்ளை செத்து எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T132256Z" creationid="THINKPAD" creationdate="20260208T055026Z">
+        <seg>as the chick of the white heron died</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>குருகு + இன் = குருகின் 
+குருகு = heron
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of heron's chick </note>
+      <tuv lang="ta">
+        <seg>&lt;t0/&gt;வெள்ளாங்&lt;t1/&gt; &lt;t2/&gt;குருகின்&lt;t3/&gt; &lt;t4/&gt;பிள்ளை செத்து &lt;t5/&gt;எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260222T072236Z" creationid="THINKPAD" creationdate="20260222T072236Z">
+        <seg>as the chick of the white heron died</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>இவ் + ஊர் + ஏ = இவ்வூரே
+இவ் = this 
+ஊர் = town
+ஏ= Particle / interjection 
+
+பொய்க்கும் = பொய் + க் + க் + உம் 
+பொய் = lies 
+க் = சந்தி = rules for combining letters
+க் = Medial particle/Tense marker 
+உம் = Adjectival Participle Suffix
+</note>
+      <tuv lang="ta">
+        <seg>&lt;t1/&gt;பொய்க்கும் இவ்வூரே&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T134625Z" creationid="THINKPAD" creationdate="20260217T134625Z">
+        <seg>people in this town are saying lies  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>இவ் + ஊர் + ஏ = இவ்வூரே
+இவ் = this 
+ஊர் = town
+ஏ= Particle / interjection 
+
+பொய்க்கும் = பொய் + க் + க் + உம் 
+பொய் = lies 
+க் = சந்தி = rules for combining letters
+க் = Medial particle/Tense marker 
+உம் = Adjectival Participle Suffix
+</note>
+      <tuv lang="ta">
+        <seg>&lt;t3/&gt;பொய்க்கும்&lt;t4/&gt; &lt;t5/&gt;இவ்வூரே&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260216T130541Z" creationid="THINKPAD" creationdate="20260216T125749Z">
+        <seg>people in this town are saying lies  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>தோழியது = தோழி + அது
+தோழி = friend 
+அது = grammatical case suffix 
+here, 6th case(Genitive Case) suffix, used in the meaning - of or 's ( belonging to)
+
+துயரே = துயர் + ஏ
+துயர் = sorrow
+ஏ = அசைநிலை (Expletive or fill in word) </note>
+      <tuv lang="ta">
+        <seg>அம்&lt;t0/&gt; மா மேனி &lt;t1/&gt;எம்&lt;t2/&gt; &lt;t3/&gt;தோழியது&lt;t4/&gt; &lt;t5/&gt;துயரே&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260220T125419Z" creationid="THINKPAD" creationdate="20260219T163556Z">
+        <seg>beautiful dark complexion girl, our friend's sorrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>போலும் = to resemble (used as figurative form)
+போல் + உம் = போலும்
+போல் = Simile Markers 
+உம் = சாரியை (intermediate affix)</note>
+      <tuv lang="ta">
+        <seg>அறவன் போலும் அருளுமார் அதுவே.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260207T060213Z" creationid="THINKPAD" creationdate="20260207T060213Z">
+        <seg>he appears to be noble also his grace it is </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>அருளுமார் = அருள் = grace 
+</note>
+      <tuv lang="ta">
+        <seg>அறவன்&lt;t0/&gt; போலும் &lt;t1/&gt;அருளுமார்&lt;t2/&gt; அதுவே.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T141146Z" creationid="THINKPAD" creationdate="20260307T141146Z">
+        <seg>he appears to be noble also his grace it is </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>preene- to clean and tidy feathers with its beak (உளர)</note>
+      <tuv lang="ta">
+        <seg>உளர ஒழிந்த தூவி குலவுமணல்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260208T061706Z" creationid="THINKPAD" creationdate="20260208T061706Z">
+        <seg>as it preened it lost its feathers on the sand heap </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>preen = to clean and tidy its feathers with its beak.</note>
+      <tuv lang="ta">
+        <seg>உளர&lt;t0/&gt; ஒழிந்த &lt;t1/&gt;தூவி&lt;t2/&gt; &lt;t3/&gt;குலவுமணல்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260222T072251Z" creationid="THINKPAD" creationdate="20260222T072251Z">
+        <seg>as it preened it lost its feathers on the sand heap </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>அனைக்கோ = for her
+here, her = friend 
+friend of the speaker(தோழி)
+speaker = தோழி (friend of the heroine)
+friend = தலைவி (heroine)
+
+எனக்கு + ஓ = எனக்கோ
+ எனக்கு =  for me 
+ஓ = அசைநிலை (Expletive or fill in word)</note>
+      <tuv lang="ta">
+        <seg>எனக்கோ&lt;t0/&gt; காதலன்&lt;t1/&gt;, &lt;t2/&gt;அனைக்கோ&lt;t3/&gt; &lt;t4/&gt;வேறே&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260218T160154Z" creationid="THINKPAD" creationdate="20260218T160154Z">
+        <seg>for me, he seems to be loving her but she assumes differently  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ஓதம் + ஒடு = ஓதமொடு
+ஓதம் = waves
+ஒடு = grammatical case suffix
+here, 3rd case suffix (Sociative Case) denotes the meaning 'with'
+
+துறைவற்கு = துறைவன் + கு 
+துறைவன் = lord of the sea shore
+கு = grammatical case markers 
+here, 4th case suffix (Dative Case) which denotes the meaning 'for' </note>
+      <tuv lang="ta">
+        <seg>ஓதமொடு&lt;t0/&gt; &lt;t1/&gt;பெயரும்&lt;t2/&gt; &lt;t3/&gt;துறைவற்குப்&lt;t4/&gt;,</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T162108Z" creationid="THINKPAD" creationdate="20260217T160755Z">
+        <seg> they moved along the waves of the backwaters, for the lord of the seashore  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ஆனத் = ஆதல் = act of becoming 
+
+துறைவன் + கு = துறைவற்கு
+துறைவன் =  the lord of the shore
+கு = grammatical case suffix 
+here, கு = 4th case suffix (dative case)  denoting the meaning - to, for
+</note>
+      <tuv lang="ta">
+        <seg>கள்கமழ்ந்து &lt;t0/&gt;ஆனத் &lt;t1/&gt;துறைவற்கு</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T125029Z" creationid="THINKPAD" creationdate="20260217T134115Z">
+        <seg>for the lord of the shore, where the everlasting nectar fragnance of water lilies lingers, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ஆனத்=ஆதல்= the act of becoming
+துறைவன் + கு = துறைவற்கு
+here, கு is a grammatical case suffix added to noun. 
+கு is 4th case suffix which means to him / for him </note>
+      <tuv lang="ta">
+        <seg>கள்கமழ்ந்து&lt;t0/&gt; &lt;t1/&gt;ஆனத்&lt;t2/&gt; &lt;t3/&gt;துறைவற்கு</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260213T155835Z">
+        <seg>the lord of the shore, scent of the water lillie's unending nectar fragnance lingers </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ஆன</note>
+      <tuv lang="ta">
+        <seg>கள்கமழ்ந்து&lt;t0/&gt; &lt;t1/&gt;ஆனாத்&lt;t2/&gt; &lt;t3/&gt;துறைவற்கு</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260211T154104Z" creationid="THINKPAD" creationdate="20260130T132920Z">
+        <seg>to the lord of the shore where the scent of water lillie's unending nectar fragnance lingers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>காணிய சென்ற &lt;t0/&gt;மட நடை &lt;t1/&gt;நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T134344Z" creationid="THINKPAD" creationdate="20260217T134344Z">
+        <seg>the soft-stepping stork went to see it </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காண் + இய = காணிய
+காண் = see
+இய=  Optative Verb or  Benedictive Verb suffix </note>
+      <tuv lang="ta">
+        <seg>காணிய சென்ற &lt;t0/&gt;மட நடை&lt;t1/&gt; நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T134007Z" creationid="THINKPAD" creationdate="20260217T134007Z">
+        <seg>the soft-stepping stork went to see it </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>காணிய சென்ற மடநடை நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T131737Z" creationid="THINKPAD" creationdate="20260207T050924Z">
+        <seg>the soft-stepping stork went to see it </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காண் + இய = காணிய
+காண் = see
+இய=  Optative Verb or  Benedictive Verb suffix 
+</note>
+      <tuv lang="ta">
+        <seg>காணிய சென்ற&lt;t0/&gt; &lt;t1/&gt;மட நடை&lt;t2/&gt; நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260218T051402Z" creationid="THINKPAD" creationdate="20260218T051402Z">
+        <seg>the soft-stepping stork went to see it </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காண் + இய = காணிய
+காண் = see
+இய=  Optative Verb or  Benedictive Verb suffix 
+</note>
+      <tuv lang="ta">
+        <seg>காணிய&lt;t0/&gt; சென்ற &lt;t1/&gt;மட&lt;t2/&gt; &lt;t3/&gt; நடை நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260219T081313Z" creationid="THINKPAD" creationdate="20260219T081313Z">
+        <seg>the soft-stepping stork went to see it </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காண் + இய = காணிய
+காண் = see
+இய=  Optative Verb or  Benedictive Verb suffix 
+</note>
+      <tuv lang="ta">
+        <seg>காணிய&lt;t0/&gt; சென்ற &lt;t1/&gt;மட&lt;t2/&gt; நடை &lt;t3/&gt;நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T141139Z" creationid="THINKPAD" creationdate="20260307T141139Z">
+        <seg>the soft-stepping stork went to see it, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காண் + இய = காணிய
+காண் = see
+இய=  Optative Verb or  Benedictive Verb suffix 
+</note>
+      <tuv lang="ta">
+        <seg>காணிய&lt;t0/&gt; சென்ற &lt;t1/&gt;மட&lt;t2/&gt; நடை நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260221T130542Z" creationid="THINKPAD" creationdate="20260217T132922Z">
+        <seg>the soft-stepping stork went to see it, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காண் + இய = காணிய
+காண் = see
+இய=  Optative Verb or  Benedictive Verb suffix 
+</note>
+      <tuv lang="ta">
+        <seg>காணிய&lt;t0/&gt; சென்ற &lt;t1/&gt;மட&lt;t2/&gt; நடை&lt;t3/&gt; நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T170751Z">
+        <seg>the soft-stepping stork went to see it, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>காணிய&lt;t0/&gt; சென்ற &lt;t1/&gt;மடநடை&lt;t2/&gt; நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T131546Z" creationid="THINKPAD" creationdate="20260130T131751Z">
+        <seg>the soft-stepping stork went to see it </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காண் + இய = காணிய
+காண் = see
+இய=  Optative Verb or  Benedictive Verb suffix 
+</note>
+      <tuv lang="ta">
+        <seg>காணிய&lt;t0/&gt; சென்ற&lt;t1/&gt; &lt;t2/&gt;மட&lt;t3/&gt; நடை&lt;t4/&gt; நாரை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260222T072244Z" creationid="THINKPAD" creationdate="20260222T072244Z">
+        <seg>the soft-stepping stork went to see it </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>கானல் + அம் = கானலம்
+கானல் = seashore/ grove
+அம் = சாரியை (intermediate affix)
+
+பெருந்துறைத்= பெரு(பெரிய) + துறை
+பெரு=பெரிய = big / large
+துறை = Ghat / Port
+
+துணையொடு = துணை + ஒடு
+துணை = companion, partner 
+ஒடு = grammatical case suffix 
+3rd case suffix ( sociative case) denotes - with 
+
+கொட்கும் = கொட்கு + உம்
+கொட்கு = to roam, to revolve
+உம் = சாரியை (intermediate affix)</note>
+      <tuv lang="ta">
+        <seg>கானலம்&lt;t0/&gt; &lt;t1/&gt;பெருந்துறைத்&lt;t2/&gt; &lt;t3/&gt;துணையொடு&lt;t4/&gt; &lt;t5/&gt;கொட்கும்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260219T163356Z">
+        <seg>roam with its companion in the big port's groves, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>துறைவன் + ஓடு = துறைவனோடு 
+here, ஓடு is a grammatical case suffix (வேற்றுமை உருபு) added to nouns. ஓடு is one of the 3rd case suffixes.</note>
+      <tuv lang="ta">
+        <seg>கானல் &lt;t0/&gt;சேக்கும்&lt;t1/&gt; &lt;t2/&gt;துறைவனோடு</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260216T123009Z" creationid="THINKPAD" creationdate="20260216T123009Z">
+        <seg>stay in the seashore grove, the lord of the shore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>துறைவன் + ஓடு = துறைவனோடு
+துறைவன் = the lord of the shore
+ஓடு = grammatical case suffix 
+3rd case suffix ( sociative case) denotes - with </note>
+      <tuv lang="ta">
+        <seg>கானல் சேக்கும் துறைவனோடு</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T134616Z" creationid="THINKPAD" creationdate="20260217T134616Z">
+        <seg>stay in the seashore grove, the lord of the shore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>காலை&lt;t0/&gt; இருந்து&lt;t1/&gt; &lt;t2/&gt;மாலைச்&lt;t3/&gt; &lt;t4/&gt;சேக்கும்&lt;t5/&gt;,</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T045822Z" creationid="THINKPAD" creationdate="20260308T045822Z">
+        <seg>stays from morning until evening </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>காலை&lt;t0/&gt; இருந்து&lt;t1/&gt; மாலைச் &lt;t2/&gt;சேக்கும்&lt;t3/&gt;,</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260219T133322Z" creationid="THINKPAD" creationdate="20260219T133322Z">
+        <seg>stays from morning until evening </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance 
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+
+This poem is uttered by heroine, in the context where the friend of the heroine requests the heroine to accept the hero, who is returning from his courtesan’s house. As the hero asked the heroine’s friend to convey his message.
+
+The white heron, white stork, and water lily are ‘regional elements’ of the sea landscape.
+
+ கருப்பொருள்கள் = regional elements
+நெய்தல் நிலம் = sea landscape 
+</note>
+      <tuv lang="ta">
+        <seg>கூற்று&lt;t0/&gt;: &lt;t1/&gt;வாயில் வேண்டி வந்த &lt;t2/&gt;தோழியிடம்&lt;t3/&gt; &lt;t4/&gt;தலைவி சொன்னது&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T135822Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>இரற்று + உம் = இரற்றும்
+இரற்று = to make sound 
+உம்= சாரியை (intermediate affix)
+ கானல் + அம் = கானலம்
+கானல் = seashore/ grove
+அம் = சாரியை (intermediate affix)</note>
+      <tuv lang="ta">
+        <seg>கையறுபு இரற்றும் கானலம் &lt;t0/&gt;புலம்பந்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260207T055107Z" creationid="THINKPAD" creationdate="20260207T055107Z">
+        <seg>it cried helplessly in a seashore groves  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>கையறுபு&lt;t0/&gt; &lt;t1/&gt;இரற்றும்&lt;t2/&gt; &lt;t3/&gt;கானலம்&lt;t4/&gt; &lt;t5/&gt;புலம்பந்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T141132Z" creationid="THINKPAD" creationdate="20260307T141132Z">
+        <seg>it cried helplessly in a seashore groves  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>தண்ணந் = தண் + அன் 
+தண் = cool (குளிர்ச்சி)
+அன் = சாரியை (intermediate affix)
+
+</note>
+      <tuv lang="ta">
+        <seg>தண்ணந்&lt;t0/&gt; &lt;t1/&gt;துறைவன்&lt;t2/&gt; &lt;t3/&gt;கண்டிகும்&lt;t4/&gt;,</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260219T163425Z">
+        <seg>the lord of the cool shore, you should see</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>சென்மோ = சென் (செல்) + மோ
+சென் (செல்) = go, leave 
+மோ = (முன்னிலையசை, an expletive )
+
+நலனே = நலன் + ஏ
+நலன் = virtue
+ஏ = அசைநிலை (Expletive or fill in word)  </note>
+      <tuv lang="ta">
+        <seg>தந்தனை&lt;t0/&gt; &lt;t1/&gt;சென்மோ&lt;t2/&gt; கொண்ட இவள் &lt;t3/&gt;நலனே&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260220T135304Z">
+        <seg>give back her virtues which you took and leave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>காதலோனே - generally used to describe lover 
+here, in this context used as my beloved son 
+
+தான் here, it is used to denote oneself like himself, herself 
+</note>
+      <tuv lang="ta">
+        <seg>தான் &lt;t0/&gt;வந்தனன்&lt;t1/&gt;, &lt;t2/&gt;எம்&lt;t3/&gt; &lt;t4/&gt;காதலோனே&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260219T140035Z" creationid="THINKPAD" creationdate="20260219T140035Z">
+        <seg>he came alone, my beloved son </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>வரை = marriage
+</note>
+      <tuv lang="ta">
+        <seg>துறைவன்&lt;t0/&gt; வரையும் &lt;t1/&gt;என்ப</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T141143Z" creationid="THINKPAD" creationdate="20260307T141143Z">
+        <seg>they say he, the lord of that seashore will marry her  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>here, they = people of the sea landscape.
+வரை + உம் = வரையும் 
+வரை / வரைதல் = marriage
+உம் = சாரியை (intermediate affix)
+
+here, her denotes to the courtsean</note>
+      <tuv lang="ta">
+        <seg>துறைவன்&lt;t0/&gt; வரையும் என்ப</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260207T055353Z" creationid="THINKPAD" creationdate="20260207T055353Z">
+        <seg>they say he, the lord of that seashore will marry her  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>தெண்&lt;t0/&gt; &lt;t1/&gt;கழிப்&lt;t2/&gt; &lt;t3/&gt;பரக்குந்&lt;t4/&gt; &lt;t5/&gt;துறைவன்&lt;t6/&gt;,</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260218T155117Z" creationid="THINKPAD" creationdate="20260218T155117Z">
+        <seg>they spread in the clear backwaters, the lord of the shore </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>சேர்ப்பன் + ஒடு = சேர்ப்பனொடு
+சேர்ப்பன் = lord of the shore (martime tract)
+ஒடு = grammatical case suffix 
+3rd case suffix ( sociative case) denotes - with 
+
+வாரான் =  வா(வர்) + ஆ + ஆன்
+வா =come - பகுதி 
+ஆ = எதிர்மறை இடைநிலை(Negative Infix)
+ஆன் = ஆண்பால் வினைமுற்று விகுதி(Masculine Singular Finite Verb Suffix)</note>
+      <tuv lang="ta">
+        <seg>தெண்&lt;t0/&gt; கடல் &lt;t1/&gt;சேர்ப்பனொடு&lt;t2/&gt; &lt;t3/&gt;வாரான்&lt;t4/&gt;,</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260219T135303Z">
+        <seg>in the clear sea, he did not come with the lord of the shore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>நன் + நெடு = நன்னெடு
+நன் = good
+நெடு or நெடிய = long / great 
+
+நாடும் + ஓ = நாடுமோ
+நாடும் or நாடு = search / to seek</note>
+      <tuv lang="ta">
+        <seg>நன்னெடுங் கூந்தல் நாடுமோ மற்றே.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260208T063400Z" creationid="THINKPAD" creationdate="20260208T062241Z">
+        <seg>wil the girl with long luscious hair ever seek </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>நாடுமோ = நாடு + ஓ
+நாடு = here, to seek 
+ஓ = Expletive, filler particles
+</note>
+      <tuv lang="ta">
+        <seg>நன்னெடுங்&lt;t0/&gt; கூந்தல் &lt;t1/&gt;நாடுமோ&lt;t2/&gt; &lt;t3/&gt;மற்றே&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260222T073031Z" creationid="THINKPAD" creationdate="20260222T072415Z">
+        <seg>will the girl with long luscious hair ever seek </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>இரக்குவென் = இரக்கு(இரங்கு) + வ் + ஏன்
+இரக்கு(இரங்கு) = beg 
+வ் = Future Tense Infix
+ஏன் = First Person Singular Finite Verb Ending
+
+அல்லேன் = அல் + ஏன்
+அல் = not
+ஏன் = First Person Singular Finite Verb Ending
+</note>
+      <tuv lang="ta">
+        <seg>நின் ஒன்று &lt;t0/&gt;இரக்குவென்&lt;t1/&gt; &lt;t2/&gt;அல்லேன்&lt;t3/&gt;,</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260220T133330Z" creationid="THINKPAD" creationdate="20260220T133330Z">
+        <seg>i will never beg you even for a thing </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>நெக்கு = relent 
+</note>
+      <tuv lang="ta">
+        <seg>நெக்க நெஞ்சம் நேர்கல் லேனே.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T134037Z" creationid="THINKPAD" creationdate="20260217T134037Z">
+        <seg>my broken heart will no longer yield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>நெக்க&lt;t0/&gt; நெஞ்சம் &lt;t1/&gt;நேர்கல்&lt;t2/&gt; &lt;t3/&gt;லேனே</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260130T132947Z" creationid="THINKPAD" creationdate="20260130T132947Z">
+        <seg>my broken heart will no longer yield </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>நெக்க&lt;t0/&gt; நெஞ்சம் &lt;t1/&gt;நேர்கல்&lt;t2/&gt; &lt;t3/&gt;லேனே&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260213T160342Z" creationid="THINKPAD" creationdate="20260213T160342Z">
+        <seg>my broken heart will no longer yield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>நொந்ததன் = distress </note>
+      <tuv lang="ta">
+        <seg>நொந்ததன்&lt;t0/&gt; &lt;t1/&gt;தலையும்&lt;t2/&gt; நோய் &lt;t3/&gt;மிகும்&lt;t4/&gt; &lt;t5/&gt;துறைவ&lt;t6/&gt;!</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260221T131023Z" creationid="THINKPAD" creationdate="20260221T131023Z">
+        <seg> its distress is further burdening its grief, oh you lord of this seashore </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>பசி &lt;t0/&gt;தின&lt;t1/&gt; &lt;t2/&gt;அல்கும்&lt;t3/&gt; பனி &lt;t4/&gt;நீர்ச்&lt;t5/&gt; &lt;t6/&gt;சேர்ப்ப</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260220T132611Z" creationid="THINKPAD" creationdate="20260220T132035Z">
+        <seg>In spite of its hunger it stayed, oh the lord of cool waters </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பண்டையின் = பண்டை + இன்
+பண்டை = old days
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of 'From, Than'
+
+இனைஇ = இனை + இ
+இனை = to be worried, agony
+
+here she is refered to Harlot / Courtesan</note>
+      <tuv lang="ta">
+        <seg>பண்டையின்&lt;t0/&gt; மிகப் பெரிது &lt;t1/&gt;இனைஇ</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260221T132912Z">
+        <seg>she is very much worried more than the past, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>செம்மறுத் = செ + மறு 
+செ = redness
+மறு = spot </note>
+      <tuv lang="ta">
+        <seg>பதைப்ப&lt;t0/&gt; ஒழிந்த &lt;t1/&gt;செம்மறுத்&lt;t2/&gt; &lt;t3/&gt;தூவி</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260218T154818Z" creationid="THINKPAD" creationdate="20260218T154700Z">
+        <seg>trembled and lost the feathers with red spots  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>பதைப்பத்&lt;t0/&gt; &lt;t1/&gt;ததைந்த&lt;t2/&gt; நெய்தல் &lt;t3/&gt;கழிய</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T160807Z" creationid="THINKPAD" creationdate="20260217T160718Z">
+        <seg>trembled in agony, trampled the water lilly,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance 
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+
+This poem is uttered by heroine, in the context where the friend of the heroine requests the heroine to accept the hero, who is returning from his courtesan’s house. As the hero asked the heroine’s friend to convey his message. 
+
+The white heron, white stork, and water lily are ‘regional elements’ of the sea landscape.
+
+ கருப்பொருள்கள் = regional elements
+நெய்தல் நிலம் = sea landscape 
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் 151 &lt;t0/&gt;கூற்று&lt;t1/&gt;: &lt;t2/&gt;வாயில் வேண்டி வந்த &lt;t3/&gt;தோழியிடம்&lt;t4/&gt; &lt;t5/&gt;தலைவி சொன்னது&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T044045Z">
+        <seg> poem utterance:  heroine said to her friend, who came as a hero's messanger. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance
+ 
+This poem is uttered by the heroine as a response to her friend. Her friend said that the hero loves her, but she (heroine) is upset with him because she heard that he is going to marry his courtesan.
+
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் 152 கூற்று&lt;t0/&gt;: &lt;t1/&gt;‘&lt;t2/&gt;இவன் உன் மேல் &lt;t3/&gt;அன்புடையவன்&lt;t4/&gt; &lt;t5/&gt;அருளுடையவன்&lt;t6/&gt;’ &lt;t7/&gt;எனக்&lt;t8/&gt; கூறி வாயில் வேண்டிய &lt;t9/&gt;தோழியிடம்&lt;t10/&gt; &lt;t11/&gt; &lt;t12/&gt;தலைவி &lt;t13/&gt;சொன்னது&lt;t14/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T043931Z">
+        <seg>poem utterance: the heroine respond to her friend. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance
+
+This poem is uttered by friend of the heroine to the Messengers sent by the hero, who is returning from his courtesan’s house. 
+
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+Messengers = வாயில்கள்
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் 153 கூற்று&lt;t0/&gt;: &lt;t1/&gt;தோழி வாயில்களிடம் கூறியது.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T043743Z">
+        <seg>poem utterance: friend of the heroine
+said to the messangers. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance 
+
+This poem is uttered by the heroine to her friend, who requests the heroine to let the heroine in. As a respond heroine says these words.
+
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் 15&lt;t0/&gt;4&lt;t1/&gt; &lt;t2/&gt;கூற்று&lt;t3/&gt;: &lt;t4/&gt;தலைவி &lt;t5/&gt;தோழியிடம்&lt;t6/&gt; சொன்னது</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T042744Z">
+        <seg> poem utterance:heroine to her  friend </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance 
+
+This poem is uttered by the heroine to her friend. The hero wants to come back, he sends messangers to the heroine to let him in. Her friend advises her to accept him as she (heroine) is pregnant. She gets upset with her friend and utters these words. 
+
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் 15&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;கூற்று&lt;t3/&gt;: &lt;t4/&gt;தலைவி &lt;t5/&gt;தோழியிடம்&lt;t6/&gt; &lt;t7/&gt;கூறியது&lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance 
+
+This poem is uttered by the friend of the heroine to the hero as he returns after a quarrel with his courtesan, asking for entry. She refuses the entry.
+
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் 15&lt;t0/&gt;8&lt;t1/&gt; &lt;t2/&gt;கூற்று&lt;t3/&gt;: &lt;t4/&gt;தோழி&lt;t5/&gt; &lt;t6/&gt;தலைவனிடம்&lt;t7/&gt; &lt;t8/&gt;சொன்னது</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T050503Z" creationid="THINKPAD" creationdate="20260308T050503Z">
+        <seg>poem utterance : friend of the heroine said to the hero  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance 
+
+This poem is uttered by friend of the heroine to the Messengers / hero's friends sent by the hero, requesting to let him in the house. The friend of the heroine refuses the entry by uttering these words.
+
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+Messengers = வாயில்கள்
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் &lt;t0/&gt;156 &lt;t1/&gt;கூற்று&lt;t2/&gt;:&lt;t3/&gt; &lt;t4/&gt; &lt;t5/&gt;தலைவனின்&lt;t6/&gt; &lt;t7/&gt;நண்பர்களிடம்&lt;t8/&gt; &lt;t9/&gt;தோழி&lt;t10/&gt; &lt;t11/&gt;சொன்னது&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T045417Z" creationid="THINKPAD" creationdate="20260308T045417Z">
+        <seg>friend of the heroine said to the hero's friends  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance
+ 
+This poem is uttered by the heroine to herself. She is concerned her husband (hero) will seek entry into their home with their son, but the son comes home alone.  
+
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் &lt;t0/&gt;157 &lt;t1/&gt;கூற்று&lt;t2/&gt;:&lt;t3/&gt; &lt;t4/&gt;தலைவி தனக்குள்&lt;t5/&gt; &lt;t6/&gt;சொன்னது</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T045930Z" creationid="THINKPAD" creationdate="20260308T045930Z">
+        <seg>poem utterance: heroine said to herself </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance 
+
+This poem is uttered by the friend of the heroine to the hero as he returns back from his courtesan, asking for entry. She refuses the entry.
+
+friend of the heroine = தோழி 
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் &lt;t0/&gt;159 &lt;t1/&gt;கூற்று&lt;t2/&gt;: &lt;t3/&gt;தோழி&lt;t4/&gt; &lt;t5/&gt;தலைவனிடம்&lt;t6/&gt; &lt;t7/&gt;கூறியது</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T050940Z" creationid="THINKPAD" creationdate="20260308T050940Z">
+        <seg>poem utterance: friend of the heroine said to the hero </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பாடல் கூற்று = poem utterance
+
+This poem is uttered by the heroine to the hero, as he returns back after a quarrel with his courtesan asking for entry. She refused the entry and ask him to go back to her (courtesan).  
+
+heroine = தலைவி
+hero = தலைவன்
+(here, hero of the sea landscape)
+Courtesan = பரத்தை
+</note>
+      <tuv lang="ta">
+        <seg>பாடல் &lt;t0/&gt;160 &lt;t1/&gt;கூற்று&lt;t2/&gt;: &lt;t3/&gt;தலைவி&lt;t4/&gt; &lt;t5/&gt;தலைவனிடம்&lt;t6/&gt; &lt;t7/&gt;சொன்னது</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260308T051330Z" creationid="THINKPAD" creationdate="20260308T051330Z">
+        <seg>poem utterance: heroine said to the hero.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>யான் + ஏ = யானே 
+யான் = I
+ஏ = இடைச்சொல் (particle / interjection)
+</note>
+      <tuv lang="ta">
+        <seg>பைஞ்சாய்ப்&lt;t0/&gt; பாவை &lt;t1/&gt;ஈன்றனென்&lt;t2/&gt; &lt;t3/&gt;யானே&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T161524Z" creationid="THINKPAD" creationdate="20260217T161524Z">
+        <seg>i gave a grass doll </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பெறூஉம் = அளபெடை (prolongation of sound)
+போர்வு + இன் = போர்வின் 
+போர்வு = heap 
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of heron's chick </note>
+      <tuv lang="ta">
+        <seg>போர்வின் பெறூஉம் துறைவன் கேண்மை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260208T062401Z" creationid="THINKPAD" creationdate="20260208T062145Z">
+        <seg>lord of shore's friendship </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>போர்வின் = போர்வு + இன் 
+போர்வு = heap 
+இன் = grammatical case markers 
+here, 5th case suffix (ablative) which denotes the meaning of 'from' </note>
+      <tuv lang="ta">
+        <seg>போர்வின்&lt;t0/&gt; &lt;t1/&gt;பெறூஉம்&lt;t2/&gt; &lt;t3/&gt;துறைவன்&lt;t4/&gt; &lt;t5/&gt;கேண்மை</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260222T072305Z" creationid="THINKPAD" creationdate="20260222T072305Z">
+        <seg>lord of shore's friendship </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>போல் or போல = Simile Markers 
+கண்போல் = like the eyes
+
+மிதிப்ப = மிதி + ப் + ப் + அ
+மிதி = to step on something 
+ப் = சந்தி = rules for combining letters
+ப்=  Medial particle/Tense marker 
+அ = Adjectival Participle Suffix
+
+</note>
+      <tuv lang="ta">
+        <seg>மிதிப்ப நக்க கண்போல் நெய்தல்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260307T125231Z" creationid="THINKPAD" creationdate="20260217T134031Z">
+        <seg>it stepped, the water lilies which resemble the eye blossomed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>போல் = to resemble (used as figurative form)
+
+மிதிப்ப = மிதி + ப் + ப் + அ
+மிதி = to step on something 
+ப் = சந்தி = rules for combining letters
+ப்=  Medial particle/Tense marker 
+அ = Adjectival Participle Suffix
+</note>
+      <tuv lang="ta">
+        <seg>மிதிப்ப&lt;t0/&gt; நக்க &lt;t1/&gt;கண்போல்&lt;t2/&gt; நெய்தல்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260211T153425Z" creationid="THINKPAD" creationdate="20260130T132031Z">
+        <seg>it stepped, the water lillies which resemble the eye blossomed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>here her and she is refered to Harlot / Courtesan
+
+முயங்கு = embrace
+</note>
+      <tuv lang="ta">
+        <seg>முயங்குமதி&lt;t0/&gt; &lt;t1/&gt;பெரும&lt;t2/&gt;, &lt;t3/&gt;மயங்கினள்&lt;t4/&gt; &lt;t5/&gt;பெரிதே&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260221T140611Z" creationid="THINKPAD" creationdate="20260221T140611Z">
+        <seg>embrace her lord, she is very confused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>யான்+எவன் = யானெவன்
+ யான் = I
+எவன் = what </note>
+      <tuv lang="ta">
+        <seg>யானெவன் செய்கோ&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T134619Z" creationid="THINKPAD" creationdate="20260217T134619Z">
+        <seg>what i will do with him </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>யான்+எவன் = யானெவன்
+யான் = I
+எவன் = what 
+</note>
+      <tuv lang="ta">
+        <seg>யானெவன்&lt;t0/&gt; &lt;t1/&gt;செய்கோ&lt;t2/&gt;?</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260216T130529Z" creationid="THINKPAD" creationdate="20260216T123332Z">
+        <seg>what i will do with him </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>குருகு + இன் = குருகின் 
+குருகு = heron
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of heron's chick </note>
+      <tuv lang="ta">
+        <seg>வெள்ளாங் குருகின் பிள்ளை &lt;t0/&gt;செத்து எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260217T132316Z" creationid="THINKPAD" creationdate="20260214T042422Z">
+        <seg>as the chick of the white heron died</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ta">
+        <seg>வெள்ளாங் குருகின் பிள்ளை செத்&lt;t0/&gt;து எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260207T050908Z" creationid="THINKPAD" creationdate="20260207T050908Z">
+        <seg>because the chick of the white heron dies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>குருகு + இன் = குருகின் 
+குருகு = heron
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of heron's chick 
+
+
+</note>
+      <tuv lang="ta">
+        <seg>வெள்ளாங்&lt;t0/&gt; &lt;t1/&gt;குருகின்&lt;t2/&gt; பிள்ளை &lt;t3/&gt;செத்து &lt;t4/&gt;எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260219T081309Z" creationid="THINKPAD" creationdate="20260219T081309Z">
+        <seg>as the chick of the white heron died</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>பெயரடை= adjective
+குருகு + இன்</note>
+      <tuv lang="ta">
+        <seg>வெள்ளாங்&lt;t0/&gt; &lt;t1/&gt;குருகின்&lt;t2/&gt; பிள்ளை செத்&lt;t3/&gt;து &lt;t4/&gt;எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260211T153016Z" creationid="THINKPAD" creationdate="20260130T131629Z">
+        <seg>as the chick of the white heron died</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>குருகு + இன் = குருகின் 
+குருகு = heron
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of heron's chick 
+</note>
+      <tuv lang="ta">
+        <seg>வெள்ளாங்குருகின் பிள்ளை &lt;t0/&gt;செத்து எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260218T052642Z" creationid="THINKPAD" creationdate="20260218T052642Z">
+        <seg>as the chick of the white heron died</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>குருகு + இன் = குருகின் 
+குருகு = heron
+இன் = grammatical case suffix 
+here, 5th case suffix(ablative case) denotes the meaning of heron's chick </note>
+      <tuv lang="ta">
+        <seg>வெள்ளாங்குருகின்&lt;t0/&gt; பிள்ளை &lt;t1/&gt;செத்து &lt;t2/&gt;எனக்</seg>
+      </tuv>
+      <tuv lang="en-IN" changeid="THINKPAD" changedate="20260216T120521Z" creationid="THINKPAD" creationdate="20260216T120521Z">
+        <seg>as the chick of the white heron died</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
